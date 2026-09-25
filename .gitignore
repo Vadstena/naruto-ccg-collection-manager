@@ -1,0 +1,4 @@
+*.sqlite
+notes.txt
+*.pyc
+__pycache__/
